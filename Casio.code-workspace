@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Casio"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Pictures/Canva"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tryangle"
+	}
+}
